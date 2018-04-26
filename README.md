@@ -7,3 +7,6 @@ We're gonna learn how 2 git gud
  * Kirk
  * Jordan
  * Harry
+ * Craig
+ * Josh Espinas
+ 
