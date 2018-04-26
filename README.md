@@ -6,3 +6,5 @@ We're gonna learn how 2 git gud
  * Suki
  * Kirk
  * Saksham Anand
+ * Craig
+ * Josh Espinas
